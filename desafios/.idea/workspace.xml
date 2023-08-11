@@ -35,7 +35,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "string__inteiro__treino",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "E:/TI/Alura/curso_java/java/desafios",
     "onboarding.tips.debug.path": "E:/TI/Alura/curso_java/java/desafios/desafiosAlura/src/Main.java"
@@ -65,16 +64,5 @@
       <updated>1691732651083</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/desafiosAlura/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
