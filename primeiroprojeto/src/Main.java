@@ -7,7 +7,7 @@ public class Main {
 
         int anoDeLancamento = 2022;
         System.out.println("Ano de Lançamento: " + anoDeLancamento);
-        boolean incluidoNoPlano;
+        boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1d;
 
         /*Média calculadas pelas 3 notas inseridas*/
