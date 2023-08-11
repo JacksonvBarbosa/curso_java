@@ -15,10 +15,17 @@ public class Main {
         System.out.println(media);
         String sinopse;
 sinopse = """
-        Top Gun 
-        Filme de aventura Estrelado por Tom Cruise
-        Ano de lançamento
+            Top Gun 
+            Filme de aventura Estrelado por Tom Cruise
+            Ano de lançamento
         """ + anoDeLancamento; //Formatado com Text Blocks
         System.out.println(sinopse);
-            }
+
+        int classificacao;
+        classificacao = (int) (media /2);
+        System.out.println(classificacao);
+
+        int classificacao1 = (int) (media /2);
+        System.out.println(classificacao1);
+    }
 }
