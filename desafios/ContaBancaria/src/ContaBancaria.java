@@ -27,10 +27,11 @@ public class ContaBancaria {
                 3 - Transferências - PIX/TED etc
                 4 - Sair
                 """;
-        System.out.println(menu);
+
 
         //lógica principal
         while(opcao != 4) {
+            System.out.println(menu);
             Scanner op = new Scanner(System.in);
             System.out.println("Digite a opção desejada: ");
             opcao = op.nextInt();
