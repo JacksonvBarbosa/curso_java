@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b33bd86-6a50-4fe4-9737-7ad7390ada88" name="Changes" comment="" />
+    <list default="true" id="6b33bd86-6a50-4fe4-9737-7ad7390ada88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "desafios__alura",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "E:/TI/Alura/curso_java/java/primeiroprojeto",
+    "last_opened_file_path": "E:/TI/Alura/curso_java/java/desafios/DesafioAdivinhacao",
     "onboarding.tips.debug.path": "E:/TI/Alura/curso_java/java/desafios/desafiosAlura/src/Main.java"
   }
 }]]></component>
