@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<<< HEAD:string_inteiro_treino/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/.idea/string_inteiro_treino.iml" filepath="$PROJECT_DIR$/.idea/string_inteiro_treino.iml" />
+========
+      <module fileurl="file://$PROJECT_DIR$/com.javaLoops.iml" filepath="$PROJECT_DIR$/com.javaLoops.iml" />
+>>>>>>>> 0fa2e913847d67c7411b8a190546c33d249b886f:intellij_projetos/loops/.idea/modules.xml
     </modules>
   </component>
 </project>
