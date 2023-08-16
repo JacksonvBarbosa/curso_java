@@ -1,0 +1,1 @@
+nome='Avatar', anoDeLancamento=2009,duração 162min
