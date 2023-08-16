@@ -5,5 +5,5 @@ public class Usuario {
     private String nome;
     private long cep;
     private int numero;
-    
+
 }
