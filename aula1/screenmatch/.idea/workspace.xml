@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff2877c6-844e-47e1-b8a5-94890257e9df" name="Changes" comment="" />
+    <list default="true" id="ff2877c6-844e-47e1-b8a5-94890257e9df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/.idea/desafio_apicep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/CepBuscador/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/CepBuscador/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/CepBuscador/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/CepBuscador/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/CepBuscador/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/CepBuscador/CepBuscador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio_apicep/src/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uml_CEP/buscadorcep.asta.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "curso2__geral",
-    "last_opened_file_path": "E:/TI/Alura/curso_java/java/aula1/desafio_apicep",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;curso2__geral&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/TI/Alura/curso_java/java/aula1/desafio_apicep&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.screenmatch.excecao" />
