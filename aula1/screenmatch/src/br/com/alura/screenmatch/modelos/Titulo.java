@@ -7,9 +7,9 @@ public class Titulo implements Comparable<Titulo> {
 
     private String nome;
     private int anoDeLancamento;
-    private boolean incluidoNoPlano;
-    private double somaDasAvaliacoes;
-    private int totalDeAvaliacoes;
+    //private boolean incluidoNoPlano;
+    //private double somaDasAvaliacoes;
+    //private int totalDeAvaliacoes;
     private int duracaoEmMinutos;
 
     public Titulo(String nome, int anoDeLancamento) {
@@ -38,17 +38,17 @@ public class Titulo implements Comparable<Titulo> {
         return anoDeLancamento;
     }
 
-    public boolean isIncluidoNoPlano() {
+    /*public boolean isIncluidoNoPlano() {
         return incluidoNoPlano;
-    }
+    }*/
 
     public int getDuracaoEmMinutos() {
         return duracaoEmMinutos;
     }
 
-    public int getTotalDeAvaliacoes() {
+    /*public int getTotalDeAvaliacoes() {
         return totalDeAvaliacoes;
-    }
+    }*/
 
     public void setNome(String nome) {
         this.nome = nome;
@@ -58,9 +58,9 @@ public class Titulo implements Comparable<Titulo> {
         this.anoDeLancamento = anoDeLancamento;
     }
 
-    public void setIncluidoNoPlano(boolean incluidoNoPlano) {
+    /*public void setIncluidoNoPlano(boolean incluidoNoPlano) {
         this.incluidoNoPlano = incluidoNoPlano;
-    }
+    }*/
 
     public void setDuracaoEmMinutos(int duracaoEmMinutos) {
         this.duracaoEmMinutos = duracaoEmMinutos;
@@ -71,14 +71,14 @@ public class Titulo implements Comparable<Titulo> {
         System.out.println("Ano de lançamento: " + anoDeLancamento);
     }
 
-    public void avalia(double nota) {
+    /*public void avalia(double nota) {
         somaDasAvaliacoes += nota;
         totalDeAvaliacoes++;
-    }
+    }*/
 
-    public double pegaMedia() {
+    /*public double pegaMedia() {
         return somaDasAvaliacoes / totalDeAvaliacoes;
-    }
+    }*/
 
     @Override
     public int compareTo(Titulo outroTitulo) {

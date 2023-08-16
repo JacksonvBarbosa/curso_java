@@ -12,7 +12,7 @@ import java.util.List;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme("O poderoso chefão", 1970);
+        /*Filme meuFilme = new Filme("O poderoso chefão", 1970);
         meuFilme.avalia(9);
         Filme outroFilme = new Filme("Avatar", 2023);
         outroFilme.avalia(6);
@@ -48,6 +48,6 @@ public class PrincipalComListas {
         System.out.println(lista);
         lista.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
         System.out.println("Ordenando por ano");
-        System.out.println(lista);
+        System.out.println(lista);*/
     }
 }

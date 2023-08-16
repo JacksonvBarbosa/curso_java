@@ -53,7 +53,7 @@ public class PrincipalComBusca {
                 System.out.println(json);
 
                 TituloOmdb meuTituloOmdb = gson.fromJson(json, TituloOmdb.class);
-                System.out.println(meuTituloOmdb);//Serve para tranferirs dados
+                System.out.println(meuTituloOmdb);//Serve para tranferir dados
                 /*Condição de se acontecer um erro ele tenta mostrar o resultado
                  * e ainda traz com o catch o erro que acorreu e o programa continua executando*/
                 //try{

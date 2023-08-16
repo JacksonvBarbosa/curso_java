@@ -14,7 +14,7 @@ public class Principal {
         meuFilme.setDuracaoEmMinutos(180);
         System.out.println("Duração do filme: " + meuFilme.getDuracaoEmMinutos());
 
-        meuFilme.exibeFichaTecnica();
+        /*meuFilme.exibeFichaTecnica();
         meuFilme.avalia(8);
         meuFilme.avalia(5);
         meuFilme.avalia(10);
@@ -60,7 +60,7 @@ public class Principal {
         System.out.println("Tamanho da lista " + listaDeFilmes.size());
         System.out.println("Primeiro filme " + listaDeFilmes.get(0).getNome());
         System.out.println(listaDeFilmes);
-        System.out.println("toString do filme " + listaDeFilmes.get(0).toString());
+        System.out.println("toString do filme " + listaDeFilmes.get(0).toString());*/
 
 
     }
